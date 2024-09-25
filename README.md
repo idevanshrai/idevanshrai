@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on App Development<br><br>🌱 I’m currently learning Full Stack Development<br><br>💬 Ask me about Hardware robotics, artficial intelligence and cars<br><br>📫 How to reach me idevanshrai@gmail.com<br><br>⚡ Fun fact I think I'm funny
+🔭 I’m currently working on App Development<br><br>🌱 I’m currently learning Full Stack Development<br><br>💬 Ask me about Hardware Robotics, Artficial Intelligence and Cars<br><br>📫 How to reach me idevanshrai@gmail.com<br><br>⚡ Fun fact I think I'm funny
 
 
 ## 🌐 Socials:
